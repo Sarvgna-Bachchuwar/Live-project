@@ -1,0 +1,5 @@
+1.Read CSV File and store data in the dictionary.
+2.Each key in the dictionary should be a string, as read from the CSV file. The value of that key will be a Python list. 
+3.You will use this dictionary for the next three modules.
+4.At this stage, your goal is to simply read file. The challenge is you can’t use any python library like pandas.
+ 
